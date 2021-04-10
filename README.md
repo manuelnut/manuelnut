@@ -1,4 +1,6 @@
-# em[manuelnut](https://github.com/manuelnut/)sugah
+<p style="font-size: 32px; font-family: monospace;">
+	em<span style="color: slateblue;">manuelnut</span>sugah
+</p>
 
 <!--
 **manuelnut/manuelnut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
